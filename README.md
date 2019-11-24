@@ -1,5 +1,6 @@
 # passcracker
 Hash tool and cracker
+
 This tool has for goal to crack password as well as generate MD5 hash passwords from a text input. 
 
 The MD5 algorithm is an extension of the MD4, it is more conservative and slower than MD4 and provides a bit more security in exchange of speed. 
