@@ -17,3 +17,7 @@ Usage:
 Start the script to view the different options
 - Enter 1 for encoding a hash: Prompt the user to enter a password to convert in hash
 - Enter 2 for decoding a hash: You will be prompted to the hash of a password to recover, PassCracker will decode the hash and reveal the password in clear text
+
+
+
+Arthur
